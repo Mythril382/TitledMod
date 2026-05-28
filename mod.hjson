@@ -1,0 +1,11 @@
+displayName: Titled Mod
+name: title
+author: Mythril
+description: 
+    '''
+    Whatever I want to make gets added here.
+    '''
+subtitle: See? This mod has a title!
+version: 0.1.0a
+minGameVersion: 158
+repo: Mythril382/TitledMod
